@@ -1,0 +1,15 @@
+D:\Учеба\C#\C_Test\Task01\bin\Debug\net6.0\Task01.exe
+D:\Учеба\C#\C_Test\Task01\bin\Debug\net6.0\Task01.deps.json
+D:\Учеба\C#\C_Test\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+D:\Учеба\C#\C_Test\Task01\bin\Debug\net6.0\Task01.dll
+D:\Учеба\C#\C_Test\Task01\bin\Debug\net6.0\ref\Task01.dll
+D:\Учеба\C#\C_Test\Task01\bin\Debug\net6.0\Task01.pdb
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.dll
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\ref\Task01.dll
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.pdb
+D:\Учеба\C#\C_Test\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
